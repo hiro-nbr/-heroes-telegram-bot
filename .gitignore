@@ -1,0 +1,15 @@
+# دیتابیس پیام‌ها (SQL)
+bot_data.db
+
+# فایل‌های قدیمی/پشتیبان حافظه
+conversations.json
+chat_history.json
+*.json.bak
+
+# محیط مجازی
+venv/
+.venv/
+
+# پایتون
+__pycache__/
+*.pyc
